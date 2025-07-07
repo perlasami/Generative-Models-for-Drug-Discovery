@@ -1,6 +1,5 @@
 # 🧬 Generative Models for Drug Discovery
-📅 Duration: 15 May – 5 June
-🔬 Project Focus: Accelerating drug discovery using generative models and deep reinforcement learning.
+🔬 Project Focus: Accelerating drug discovery using generative models and deep **reinforcement learning**
 
 📘 Project Overview
 This project explores the use of generative deep learning for designing novel molecular structures with potential therapeutic properties. Leveraging the vast ZINC database of chemical compounds, the pipeline generates, validates, and optimizes new drug candidates.
